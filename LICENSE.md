@@ -18,12 +18,13 @@ You are **not allowed** to:
 Commercial Use
 If you would like to use **SK Hershey Pond** in a commercial project, please get in touch for a license:
 
-[hi@sashakulikov.com]  
-[type.sashakulikov.com]
+(hi@sashakulikov.com)[hi@sashakulikov.com]  
+
 
 Disclaimer
 The font is provided *as is*, with no warranties or guarantees. Use at your own risk.
 
 ---
 
-[More fonts and projects →](type.sashakulikov.com)
+(sashakulikov.com)[sashakulikov.com]  
+(type.sashakulikov.com)[type.sashakulikov.com]
