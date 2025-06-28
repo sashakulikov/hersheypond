@@ -28,6 +28,6 @@ Riso-printing: Drucken3000
 
 ---
 
-© 2025 Sasha Kulikov  
+© 2025  
 **[sashakulikov.com](https://www.sashakulikov.com/)**  
 **[type.sashakulikov.com](https://type.sashakulikov.com/)**
