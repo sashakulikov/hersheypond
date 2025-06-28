@@ -21,7 +21,7 @@ If you would like to use **SK Hershey Pond** in a commercial project, please get
 hi@sashakulikov.com
 
 
-Disclaimer
+Disclaimer  
 The font is provided *as is*, with no warranties or guarantees. Use at your own risk.
 
 ---
