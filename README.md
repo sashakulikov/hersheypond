@@ -19,8 +19,8 @@ Kalkberg, Lüneburg
 
 *Nocturnal Serenade* is an annual nighttime event that takes place each May and June at Kalkberg in Lüneburg. Visitors are invited to come after dark and listen to frogs croaking in their natural habitat by the pond. It’s a quiet, immersive way to connect with nature and experience the sounds of the night. Central to the project is the search for understanding across different forms of intelligence, using natural phenomena to inspire a deeper connection with the environment and other species.
 
-**Concept and design:** Sergey Yavorskiy, Sasha Kulikov  
-**Riso-printing:** Drucken3000
+Concept and design: Sergey Yavorskiy, Sasha Kulikov  
+Riso-printing: Drucken3000
 
 ---
 
