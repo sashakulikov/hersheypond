@@ -2,7 +2,7 @@ License, SK Hershey Pond (2024)
 
 © 2025 Sasha Kulikov
 
-SK Hershey Pond is distributed under a *personal and non-commercial use license*.
+SK Hershey Pond is distributed under a personal and non-commercial use license*.
 
 You are allowed to:
 - Use the font in personal, non-commercial, and educational projects**
