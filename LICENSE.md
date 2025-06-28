@@ -26,4 +26,5 @@ The font is provided *as is*, with no warranties or guarantees. Use at your own 
 
 ---
 
-(sashakulikov.com)(https://www.sashakulikov.com/)
+[sashakulikov.com](https://www.sashakulikov.com/)  
+[type.sashakulikov.com](https://type.sashakulikov.com/)
