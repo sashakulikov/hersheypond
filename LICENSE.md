@@ -18,7 +18,7 @@ You are **not allowed** to:
 Commercial Use
 If you would like to use **SK Hershey Pond** in a commercial project, please get in touch for a license:
 
-(hi@sashakulikov.com)[hi@sashakulikov.com]  
+hi@sashakulikov.com
 
 
 Disclaimer
